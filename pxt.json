@@ -1,0 +1,24 @@
+{
+    "name": "friendly-umbrella",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "ir_remote": "github:d3jd/ir#v1.0.12",
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.12",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
